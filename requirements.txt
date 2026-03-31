@@ -1,0 +1,14 @@
+# Flask 核心框架
+flask==3.0.0
+# 跨域支持
+flask-cors==4.0.0
+# 生产环境WSGI服务器（Render部署必须）
+gunicorn==21.2.0
+# OpenCV 计算机视觉（AI羽毛球分析用）
+opencv-python==4.8.1.78
+# 哈希库（Python内置，无需安装，可省略）
+# hashlib
+# 系统库（Python内置，无需安装，可省略）
+# os
+# 浏览器操作库（可选，根据实际使用保留）
+webbrowser
